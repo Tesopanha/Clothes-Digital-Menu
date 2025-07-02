@@ -92,10 +92,14 @@ lib/
 
 ## Screenshots
 
-![Main Page](assets/screenshots/main_page.png)
+<!-- ![Main Page](assets/screenshots/main_page.png) -->
+<img src="assets/screenshots/main_page.png" alt="Main Page" width="300"/>
 ![Product Detail](assets/screenshots/product_detail.png)
+
 ![Alert Message](assets/screenshots/alert_message.png)
+
 ![No Connection](assets/screenshots/no_connection.png)
+
 ![No Product](assets/screenshots/no_product.png)
 
 ---
