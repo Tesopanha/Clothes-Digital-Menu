@@ -93,14 +93,18 @@ lib/
 ## Screenshots
 
 <!-- ![Main Page](assets/screenshots/main_page.png) -->
-<img src="assets/screenshots/main_page.png" alt="Main Page" width="300"/>
-![Product Detail](assets/screenshots/product_detail.png)
+<img src="assets/screenshots/main_page.png" alt="Main Page" width="250"/>  <img src="assets/screenshots/product_detail.png" alt="Main Page" width="250"/>
 
-![Alert Message](assets/screenshots/alert_message.png)
+<!-- ![Product Detail](assets/screenshots/product_detail.png) -->
+<img src="assets/screenshots/alert_message.png" alt="Main Page" width="250"/>  <img src="assets/screenshots/no_connection.png" alt="Main Page" width="250"/> 
 
-![No Connection](assets/screenshots/no_connection.png)
+<img src="assets/screenshots/no_product.png" alt="Main Page" width="250"/>
 
-![No Product](assets/screenshots/no_product.png)
+<!-- ![Alert Message](assets/screenshots/alert_message.png)
+
+![No Connection](assets/screenshots/no_connection.png) -->
+
+<!-- ![No Product](assets/screenshots/no_product.png) -->
 
 ---
 
